@@ -1,6 +1,6 @@
 # React+Vite Movie Theatres
 
-Demo：https://kaden175ck.github.io/MY-MOVIE-FRONTEND/
+Demo：https://kaden175ck.github.io/My-Movie-Frontend/
 
 ![website screenshot](./screenshot.png)
 
