@@ -1,4 +1,4 @@
-# React+Vite Movie Theatres
+# React+Vite Movie Theatres(Responsive)
 
 Demo：https://kaden175ck.github.io/My-Movie-Frontend/
 
